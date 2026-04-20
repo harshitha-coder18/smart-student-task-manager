@@ -1,35 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Smart Student Task Manager</title>
-
-    <style>
-        body {
-            background-color: lightblue;
-            text-align: center;
-        }
-
-        h1 {
-            color: green;
-        }
-
-        p {
-            color: blue;
-            font-size: 18px;
-        }
-
-        input {
-            padding: 10px;
-        }
-
-        button {
-            padding: 10px;
-            background-color: green;
-            color: white;
-        }
-    </style>
-</head>
-
 <body>
 
     <h1>Smart Student Task Manager</h1>
@@ -41,6 +12,6 @@
     <ul>
         <li>Sample Task</li>
     </ul>
-
 </body>
+</head>
 </html>
